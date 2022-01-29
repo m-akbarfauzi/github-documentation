@@ -30,7 +30,7 @@ git add .
 ## 5. Commit the repository
 
 ```
-git commint -m "this is my first repository"
+git commit -m "this is my first repository"
 ```
 ## 6. Adding remote on GitHub
 
